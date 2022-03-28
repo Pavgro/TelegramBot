@@ -1,4 +1,4 @@
-### Telegram bot wich helps newbies to find a ourse based on their field of interest.
+### Telegram bot which helps newbies to find a course based on their field of interest.
 
 
 
